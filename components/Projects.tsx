@@ -16,33 +16,33 @@ const Projects = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
            <ProjectCard
           img={amazonClone.src}
-          title="Amazon Clone"
+          title="Lorem Ipsum"
           link="https://amazonclone.reactbd.com/"
         />
         <ProjectCard
           img={reactBD.src}
-          title="Cyber Security"
+          title="Lorem Ipsum"
           link="https://reactbd.com/"
         />
         <ProjectCard
           img={cyberBlog.src}
-          title="Cyber Security"
+          title="Lorem Ipsum"
           link="https://blog.reactbd.com/"
         />
         <ProjectCard
           img={noorShop.src}
-          title="Noor Shopping"
+          title="Lorem Ipsum"
           link="https://orebishopping.reactbd.com/"
         />
         <ProjectCard
           img={dynamicPortfolio.src}
-          title="Dynamic Portfolio"
+          title="Lorem Ipsum"
           link="https://amazonclone.reactbd.com/"
         />
 
         <ProjectCard
           img={dashboard.src}
-          title="Dashboard"
+          title="Lorem Ipsum"
           link="https://orebishopping.reactbd.com/"
         />
         </div>
