@@ -7,7 +7,6 @@ import reactBD from "../public/img/projects/reactBD.png";
 import dashboard from "../public/img/projects/dashboard.webp";
 import { FaProjectDiagram } from "react-icons/fa";
 import Title from './Title'
-import UnderConstruction from "@/pages/Under-Construction";
 
 const Projects = () => {
   return (
