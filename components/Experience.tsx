@@ -7,12 +7,12 @@ import {SiReactivex, SiToptal, SiFreelancer, SiFiverr} from 'react-icons/si'
 const Experience = () => {
   return (
   
-        <div className="wrapper">
+      <div className="wrapper">
       <Title text="Experiences" icon={<MdWork />} />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <ExperienceCard
           title="Human Rights and People Empowerment Center"
-          subTitle="Website Developer Present"
+          subTitle="Website Developer"
           icon={<VscLaw />}
         />
         <ExperienceCard

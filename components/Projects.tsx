@@ -7,7 +7,6 @@ import dashboard from "../public/img/projects/dashboard.webp";
 import { FaProjectDiagram } from "react-icons/fa";
 import Title from './Title'
 import TicTacToe from "../public/img/projects/TicTacToe.png";
-import Link from "next/link";
 
 const Projects = () => {
   return (

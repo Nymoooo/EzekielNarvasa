@@ -7,6 +7,7 @@ function Aboutme() {
         <div className="wrapper">
             <Title text="About Me" icon={ <SiInformatica />} />
             <div className="text-lg tracking-wide flex flex-col gap-6 " >
+                
                 <p>
                 
           I am a web developer with 4+ years of experience in React. I have a
