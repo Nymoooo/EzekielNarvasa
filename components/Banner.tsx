@@ -17,9 +17,9 @@ const Banner = () => {
         {/* Description */}
         <div className="w-full md:w-3/4 flex flex-col items-center md:items-start gap-4 md:gap-6">
           <h1 className="text-[1.75rem] md:text-5xl font-bold text-white">Ezekiel Narvasa</h1>
-          <h3 className="text-[1.25rem] md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
+          <h2 className="text-[1.25rem] md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
             Full Stack Developer
-          </h3>
+          </h2>
           <p className="text-base md:text-lg tracking-wide text-center md:text-left">
             An incoming fourth-year computer science student looking for an IT internship who
             possesses a solid fundamental foundation in programming, data structures, and
