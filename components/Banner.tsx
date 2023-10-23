@@ -17,7 +17,7 @@ const Banner = () => {
         <h1 className="text-2xl md:text-5xl font-bold text-white">
           Ezekiel Narvasa
         </h1>
-        <h3 className="text-xl md:text-2xl md:text-center font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
+        <h3 className="text-xl md:text-2xl md:text-center font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide text-center">
           Aspiring Full-Stack Web Developer
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
